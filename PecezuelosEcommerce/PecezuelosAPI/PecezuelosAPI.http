@@ -1,0 +1,6 @@
+@PecezuelosAPI_HostAddress = http://localhost:5078
+
+GET {{PecezuelosAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

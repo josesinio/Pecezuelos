@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PecezuelosDTO\PecezuelosDTO.csproj" />
+    <ProjectReference Include="..\PecezuelosModels\PecezuelosModels.csproj" />
+    <ProjectReference Include="..\PecezuelosRepositorio\PecezuelosRepositorio.csproj" />
+    <ProjectReference Include="..\PecezuelosUtilidades\PecezuelosUtilidades.csproj" />
+  </ItemGroup>
+
+</Project>

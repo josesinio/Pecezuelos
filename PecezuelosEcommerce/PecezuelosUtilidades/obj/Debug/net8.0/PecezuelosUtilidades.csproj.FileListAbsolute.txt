@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\bin\Debug\net8.0\PecezuelosUtilidades.deps.json
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\bin\Debug\net8.0\PecezuelosUtilidades.dll
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\bin\Debug\net8.0\PecezuelosUtilidades.pdb
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\obj\Debug\net8.0\PecezuelosUtilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\obj\Debug\net8.0\PecezuelosUtilidades.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\obj\Debug\net8.0\PecezuelosUtilidades.AssemblyInfo.cs
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\obj\Debug\net8.0\PecezuelosUtilidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\obj\Debug\net8.0\PecezuelosUtilidades.dll
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\obj\Debug\net8.0\refint\PecezuelosUtilidades.dll
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\obj\Debug\net8.0\PecezuelosUtilidades.pdb
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\obj\Debug\net8.0\ref\PecezuelosUtilidades.dll
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\bin\Debug\net8.0\PecezuelosDTO.dll
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\bin\Debug\net8.0\PecezuelosModels.dll
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\bin\Debug\net8.0\PecezuelosDTO.pdb
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\bin\Debug\net8.0\PecezuelosModels.pdb
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\obj\Debug\net8.0\PecezuelosUtilidades.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosUtilidades\obj\Debug\net8.0\Pecezuel.448626C0.Up2Date

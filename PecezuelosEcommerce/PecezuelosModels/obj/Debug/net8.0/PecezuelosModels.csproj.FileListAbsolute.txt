@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\bin\Debug\net8.0\PecezuelosModels.deps.json
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\bin\Debug\net8.0\PecezuelosModels.dll
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\bin\Debug\net8.0\PecezuelosModels.pdb
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\obj\Debug\net8.0\PecezuelosModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\obj\Debug\net8.0\PecezuelosModels.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\obj\Debug\net8.0\PecezuelosModels.AssemblyInfo.cs
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\obj\Debug\net8.0\PecezuelosModels.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\obj\Debug\net8.0\PecezuelosModels.dll
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\obj\Debug\net8.0\refint\PecezuelosModels.dll
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\obj\Debug\net8.0\PecezuelosModels.pdb
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\obj\Debug\net8.0\ref\PecezuelosModels.dll
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\bin\Debug\net8.0\PecezuelosModels.runtimeconfig.json
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\obj\Debug\net8.0\PecezuelosModels.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosModels\obj\Debug\net8.0\PecezuelosModels.genruntimeconfig.cache
