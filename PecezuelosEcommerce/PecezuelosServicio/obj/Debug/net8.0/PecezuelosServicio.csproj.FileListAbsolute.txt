@@ -19,3 +19,4 @@ C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\Pecezuel
 C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosServicio\bin\Debug\net8.0\PecezuelosUtilidades.pdb
 C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosServicio\obj\Debug\net8.0\PecezuelosServicio.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosServicio\obj\Debug\net8.0\Pecezuel.15FCBC45.Up2Date
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosServicio\obj\Debug\net8.0\PecezuelosServicio.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PecezuelosServicio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+633559214a9347feb5f9ced803ed1540934d420f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PecezuelosServicio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PecezuelosServicio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

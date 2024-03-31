@@ -107,7 +107,7 @@ namespace PecezuelosServicio.Implementacion
             try
             {
                 var consulta = _ProductoRepositorio.Consultar(p =>
-                string.Concat(p.Nombre.ToLower()).Contains(buscar.ToLower())&&
+                p.Nombre.ToLower().Contains(buscar.ToLower())&&
                 p.IdCategoriaNavigation.Nombre.ToLower().Contains(categoria));
 
                 List<ProductoDTO> lista = _Mapper.Map<List<ProductoDTO>>(await consulta.ToListAsync());
