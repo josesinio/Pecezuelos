@@ -9,9 +9,9 @@ namespace PecezuelosAPI.Controllers
     [ApiController]
     public class ProductoController : ControllerBase
     {
-        public readonly IProductoService _ProductoServicio;
+        public readonly IProductoServicio _ProductoServicio;
 
-        public ProductoController(IProductoService ProductoServicio)
+        public ProductoController(IProductoServicio ProductoServicio)
         {
             _ProductoServicio = ProductoServicio;
 

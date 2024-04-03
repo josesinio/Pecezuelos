@@ -32,8 +32,8 @@ builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
 builder.Services.AddScoped<IVentaServicio, VentaServicio>();
 builder.Services.AddScoped<ICategoriaServicio, CategoriaServicio>();
-builder.Services.AddScoped<IDashboardService, DashboardServicio>();
-builder.Services.AddScoped<IProductoService, ProductoServicio>();
+builder.Services.AddScoped<IDashboardServicio, DashboardServicio>();
+builder.Services.AddScoped<IProductoServicio, ProductoServicio>();
 builder.Services.AddScoped<IUsuarioServicio, UsuarioServicio>();
 
 builder.Services.AddCors(options => {

@@ -9,3 +9,4 @@ C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\Pecezuel
 C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosDTO\obj\Debug\net8.0\refint\PecezuelosDTO.dll
 C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosDTO\obj\Debug\net8.0\PecezuelosDTO.pdb
 C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosDTO\obj\Debug\net8.0\ref\PecezuelosDTO.dll
+C:\Users\User\Desktop\workspace\EcommercePecezuelos\PecezuelosEcommerce\PecezuelosDTO\obj\Debug\net8.0\PecezuelosDTO.sourcelink.json

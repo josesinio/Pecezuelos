@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\PecezuelosWebAssembly.styles.css"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\workspace\\EcommercePecezuelos\\PecezuelosEcommerce\\PecezuelosWebAssembly\\wwwroot\\Styles\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\Styles\\StyleSheet.css"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\workspace\\EcommercePecezuelos\\PecezuelosEcommerce\\PecezuelosWebAssembly\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },

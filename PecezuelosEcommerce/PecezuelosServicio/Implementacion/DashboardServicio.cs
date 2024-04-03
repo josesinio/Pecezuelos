@@ -7,7 +7,7 @@ using AutoMapper;
 
 namespace PecezuelosServicio.Implementacion
 {
-    public class DashboardServicio : IDashboardService
+    public class DashboardServicio : IDashboardServicio
     {
         public readonly IVentaRepositorio _VentaRepositorio;
         private readonly IGenericoRepositorio<Usuario> _UsuarioRepositorio;

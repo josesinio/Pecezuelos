@@ -7,7 +7,7 @@ using AutoMapper;
 
 namespace PecezuelosServicio.Implementacion
 {
-    public class ProductoServicio : IProductoService
+    public class ProductoServicio : IProductoServicio
     {
         private readonly IGenericoRepositorio<Producto> _ProductoRepositorio;
         private readonly IMapper _Mapper;

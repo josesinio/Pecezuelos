@@ -1,12 +1,38 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\workspace\\EcommercePecezuelos\\PecezuelosEcommerce\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E30306AC-0087-40AE-ADDC-AEDF82BC2C28}|PecezuelosWebAssembly\\PecezuelosWebAssembly.csproj|c:\\users\\user\\desktop\\workspace\\ecommercepecezuelos\\pecezuelosecommerce\\pecezueloswebassembly\\pages\\admin\\usuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E30306AC-0087-40AE-ADDC-AEDF82BC2C28}|PecezuelosWebAssembly\\PecezuelosWebAssembly.csproj|solutionrelative:pecezueloswebassembly\\pages\\admin\\usuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuarios.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\workspace\\EcommercePecezuelos\\PecezuelosEcommerce\\PecezuelosWebAssembly\\Pages\\Admin\\Usuarios.razor",
+              "RelativeDocumentMoniker": "PecezuelosWebAssembly\\Pages\\Admin\\Usuarios.razor",
+              "ToolTip": "C:\\Users\\User\\Desktop\\workspace\\EcommercePecezuelos\\PecezuelosEcommerce\\PecezuelosWebAssembly\\Pages\\Admin\\Usuarios.razor",
+              "RelativeToolTip": "PecezuelosWebAssembly\\Pages\\Admin\\Usuarios.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T19:40:39.041Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

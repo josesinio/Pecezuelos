@@ -8,9 +8,9 @@ namespace PecezuelosAPI.Controllers
     [ApiController]
     public class DashboardController : ControllerBase
     {
-        public readonly IDashboardService _DashboardServicio;
+        public readonly IDashboardServicio _DashboardServicio;
 
-        public DashboardController(IDashboardService DashboardServicio)
+        public DashboardController(IDashboardServicio DashboardServicio)
         {
             _DashboardServicio = DashboardServicio;
 
